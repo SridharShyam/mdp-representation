@@ -1,15 +1,19 @@
 # MDP REPRESENTATION
 
 ## AIM:
+
 To create a MDP (Markov Decision Process) for the chosen problem statement.
 
 ## PROBLEM STATEMENT:
+
 Indoor plant watering scheduled system.
 
 ### Problem Description
+
 To develop a reinforcement learning system to optimize the watering schedule for indoor plants to ensure they receive the optimal amount of water, maintaining plant health while minimizing water usage.
 
 ### State Space
+
 The system considers several factors to decide when and how much to water the plants:
 
 Soil Moisture Level: This shows how wet or dry the soil is (e.g., dry, moist, wet, waterlogged).
@@ -19,6 +23,7 @@ Temperature: The surrounding temperature can affect how quickly the soil dries o
 Humidity: The moisture in the air also impacts soil moisture (e.g., percentage).
 
 ### Sample State
+
 Soil Moisture Level: Moist
 Time Since Last Watering: 3 days
 Plant Type: Fern
@@ -26,6 +31,7 @@ Temperature: 22°C
 Humidity: 60%
 
 ### Action Space
+
 The system has a few choices for what to do when it’s time to decide on watering:
 
 Water the Plant: Choose how much water to give (e.g., Small, Medium, Large).
@@ -33,9 +39,11 @@ Do Not Water: Decide to skip watering this time.
 Adjust Watering Frequency: Change how often the plant should be watered (e.g., water more or less often).
 
 ### Sample Action
+
 Water the plant with a Medium amount.
 
 ### Reward Function
+
 The system earns points (rewards) based on how well it keeps the soil at the right moisture level:
 
 Goal Achievement: Points are given for getting the soil to the desired moisture level (e.g., wet).
@@ -47,10 +55,11 @@ Formula:
 Reward = Goal Achievement - Overwatering Penalty
 
 ### Graphical Representation
+
 ![WhatsApp Image 2024-08-28 at 15 54 52_24d22352](https://github.com/user-attachments/assets/b2d60e78-10bd-45cf-a460-859e65081b98)
 
-
 ## PYTHON REPRESENTATION:
+
 ```
 mdp = {
   
@@ -90,10 +99,12 @@ mdp = {
     }
 }
 ```
+
 ## OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/1145bb5a-6670-42e8-8f71-43f37c9eed17)
 
-
 ## RESULT:
+
 Thus, the MDP for the problem statement using python is implemented successfully.
 
