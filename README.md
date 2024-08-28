@@ -47,7 +47,8 @@ Formula:
 Reward = Goal Achievement - Overwatering Penalty
 
 ### Graphical Representation
-Write your answer here
+![WhatsApp Image 2024-08-28 at 15 54 52_24d22352](https://github.com/user-attachments/assets/b2d60e78-10bd-45cf-a460-859e65081b98)
+
 
 ## PYTHON REPRESENTATION:
 ```
