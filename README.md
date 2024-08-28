@@ -50,6 +50,7 @@ Reward = Goal Achievement - Overwatering Penalty
 Write your answer here
 
 ## PYTHON REPRESENTATION:
+```
 mdp = {
   
     0: {
@@ -87,7 +88,7 @@ mdp = {
         3: [(1, 4, 0, 0)]  
     }
 }
-
+```
 mdp
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/1145bb5a-6670-42e8-8f71-43f37c9eed17)
