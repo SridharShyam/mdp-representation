@@ -89,7 +89,6 @@ mdp = {
     }
 }
 ```
-mdp
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/1145bb5a-6670-42e8-8f71-43f37c9eed17)
 
