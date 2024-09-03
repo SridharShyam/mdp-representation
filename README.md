@@ -54,7 +54,7 @@ Reward = Goal Achievement - Overwatering Penalty
 
 ### Graphical Representation
 
-![WhatsApp Image 2024-08-28 at 15 54 52_24d22352](https://github.com/user-attachments/assets/b2d60e78-10bd-45cf-a460-859e65081b98)
+![WhatsApp Image 2024-09-03 at 17 26 02_c886e239](https://github.com/user-attachments/assets/c2b05fdd-5df8-4b05-ba81-9a8d80316259)
 
 ## PYTHON REPRESENTATION:
 
@@ -96,7 +96,7 @@ mdp = {
 
 ## OUTPUT:
 
-![WhatsApp Image 2024-09-03 at 17 26 02_e86f5eeb](https://github.com/user-attachments/assets/79c64136-9ed9-4beb-83d4-286f549b096f)
+![Screenshot 2024-09-03 195206](https://github.com/user-attachments/assets/c1ce4bd4-a20f-4446-9a77-13e731f5d967)
 
 ## RESULT:
 
