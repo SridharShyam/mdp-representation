@@ -1,5 +1,3 @@
-![WhatsApp Image 2024-09-03 at 17 26 02_522f457f](https://github.com/user-attachments/assets/983415cf-9fb8-49e9-8c5b-635a60006f75)# MDP REPRESENTATION
-
 ## AIM:
 
 To create a MDP (Markov Decision Process) for the chosen problem statement.
@@ -98,7 +96,7 @@ mdp = {
 
 ## OUTPUT:
 
-![WhatsApp Image 2024-09-03 at 17 26 02_b2334069](https://github.com/user-attachments/assets/90650d57-3fc1-46fd-9a97-7099afb2d5c8)
+![WhatsApp Image 2024-09-03 at 17 26 02_e86f5eeb](https://github.com/user-attachments/assets/79c64136-9ed9-4beb-83d4-286f549b096f)
 
 ## RESULT:
 
